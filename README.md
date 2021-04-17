@@ -1,4 +1,4 @@
-<img src="img/img.ico" min-width="400px" max-width="400px" width="400px" align="right" alt="computador-img">
+<img src="img/img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador-img">
 
 <p align="left">
 Olá :wave: me chamo André Almeida, sou Técnico de Informatica e amo desenvolver.
