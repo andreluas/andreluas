@@ -1,27 +1,18 @@
 <img src="img/image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computador-img">
 
-<p align="left">
-Olá :wave: me chamo André Almeida, sou Técnico de Informatica e amo desenvolver.
-</p>
+<a href="https://www.linkedin.com/in/andreluas" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluas" />
+</a>
 
-<p align="left">
-Atualmente trabalho como Analista de Sistemas na empresa <a href="https://www.alterdata.com.br/">Alterdata Software</a>. E estudo Ciência da Computação na <a href="https://www.unifeso.edu.br/">Feso</a>. Já faz alguns anos que trabalho na área de TI. É uma área que me fascina muito com sua potêncialização de resolver problemas atráves da criatividade e lógica, oque me motiva a estudar e crescer cada vez mais. 
-</p>
+<a href="mailto:andreluas.k@gmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+</a>
 
-<p align="left">
-:books: Habilidades: HTML, CSS, JavaScript, Sass, Bootstrap, Java.
-</p>
+<br/>
 
-<p align="left">
-:wrench: Ferramentas: VSCode, Webpack, Figma, Git and Github.
-</p>
+### Hey! Welcome to my profile! How is it going? 👋🥰
 
-<p align="left">
-💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
-</p>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/andreluas" alt="Linkedin">
-        <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreluas" />
-    </a>
-</p>
+- 🚀 I’m currently working at [Alterdata Software](https://www.alterdata.com.br/)
+- 💻 HTML/CSS, Javascript, Java
+- 🔧 VSCode, Webpack, Figma, Git and Github.
+- ✨ Learning is continuous and there will always be a next level
