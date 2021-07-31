@@ -13,6 +13,6 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently working at [Alterdata Software](https://www.alterdata.com.br/)
-- 💻 Springboot, Maven, React, Angular
+- 💻 Springboot, Maven, React, Vue, Angular, Boostrap
 - 🔧 VSCode, Webpack, Figma, Postman, Git and Github.
 - ✨ Learning is continuous and there will always be a next level
