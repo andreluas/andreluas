@@ -13,6 +13,6 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently working at [Vertigo Technology](https://vertigo.com.br/)
-- 💻 Spring, Quarkus, Django, Node, Typescript, ReactJS, Angular, HTML, CSS, Sass, Boostrap
+- 💻 Spring, Quarkus, Django, Node, Typescript, React, Angular, HTML, CSS, Sass, Boostrap
 - 🔧 VSCode, Webpack, Figma, Insomnia, Postman, SoapUI, Git and Github.
 - ✨ Learning is continuous and there will always be a next level
